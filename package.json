@@ -1,6 +1,7 @@
 {
   "name": "react-utilities",
   "description": "React開発において利用する関数群を定義",
+  "version": "0.0.1",
   "private": true,
   "main": "dist/index.js",
   "types": "dist/index.d.js",
