@@ -1,11 +1,11 @@
-# ts-package-develop-template
+# react-utilities
 
-ESBuild による CommonJS パッケージ開発環境
-独自に開発する際に利用する
+React 開発の際に利用する関数群
 
-# Setup
+## clsx
 
-1. コードは src 配下に記述する
-2. コードの記述が完成次第、esbuild を実行
-3. 出力ファイルが正しく dist 配下に存在するか確認
-4. NPM もしくは、Github にアップロードし、パッケージとして利用
+クラス名の結合や変更を行う際の制御関数群
+
+## device
+
+Web アプリ開発時において端末の判定を行う関数群
